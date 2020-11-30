@@ -1,0 +1,18 @@
+{
+    "name": "swapon/converter",
+    "description": "Convert number between Englisth to Bengali and Bengali to English.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Swapon Ahamed",
+            "email": "swapon.ahamed@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Swapon\\Converter":"src/"
+        }
+    },
+    "require": {}
+}
